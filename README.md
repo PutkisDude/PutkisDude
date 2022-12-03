@@ -1,5 +1,5 @@
 ### Hi there! 👋
-- :student: currently ICT-Student at Haaga-Helia University of Applied Sciences.
+- :student: I'm currently ICT-Student at Haaga-Helia University of Applied Sciences.
 - :tv: In my freetime I watch cat videos and movies
 
 ### :hammer_and_wrench: Languages and Tools :
